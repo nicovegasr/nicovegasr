@@ -14,7 +14,7 @@
 
 ### About me
 
-Software Engineer with 2+ years of experience in backend development and data engineering. I specialize in the Spring ecosystem, microservices architectures, and building large-scale data processing systems (1M+ daily transactions). Passionate about clean architecture, DDD, and well-crafted software.
+Software Engineer with 3+ years of experience in backend development and data engineering. I specialize in the Spring ecosystem, microservices architectures, and building large-scale data processing systems (1M+ daily transactions). Passionate about clean architecture, DDD, and well-crafted software.
 
 🎓 Computer Engineering degree from **Universidad de La Laguna** (Tenerife, Spain)
 
