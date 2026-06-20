@@ -7,10 +7,10 @@
 ```python
 nico = {
     "role": "Software Engineer",
-    "mostly": "backend, but versatile — I hold my own on the front too",
+    "mostly": "backend by trade — but I don't stay in one lane: data, infra, front when it counts",
     "obsessed_with": ["resilient systems", "high-throughput data", "lots of connections"],
     "leveling_up_to": ["Cloud Platform", "DevOps"],
-    "religion": ["TDD", "software craftsmanship", "code you'll still understand in 2 years"],
+    "religion": ["TDD", "software craftsmanship", "faster isn't better — the right concepts, well applied, are", "code you'll still understand in 2 years"],
     "fuel": "☕ + good architecture",
 }
 ```
