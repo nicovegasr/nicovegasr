@@ -52,10 +52,7 @@ I come from backend, and I'm growing toward **Cloud Platform & DevOps** — conv
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nicovegasr&show_icons=true&hide_border=true&count_private=true&theme=transparent)
 ![Streak](https://streak-stats.demolab.com/?user=nicovegasr&hide_border=true&theme=transparent)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicovegasr&layout=compact&hide_border=true&theme=transparent)
 
 *Curious what I'm tinkering with? It's all in the repos 👇*
 
